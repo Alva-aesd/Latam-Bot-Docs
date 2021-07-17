@@ -3,9 +3,8 @@
     <a href="(https://discord.gg/sVsk6DmhJF"><img src="https://cdn.discordapp.com/avatars/864961940165754931/0b59d86185ba639e04f118e93a4c53a1.png?size=2048" alt="aoi.js" /></a>
   </p>
   
----
-descripción: Un bot multifuncional.
----
+  # Latam Bot
+  Un bot multifuncional.
 
   # Categorías
   
