@@ -16,6 +16,12 @@
   # Links
 
   - [Invitación](https://discord.com/api/oauth2/authorize?client_id=864961940165754931&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Foauth2%2Fauthorize%3Fclient_id%3D864961940165754931%26scope%3Dbot%26permissions%3D8&response_type=code&scope=identify%20bot%20applications.commands)
+
+- [Servidor De Soporte](https://discord.gg/GRAJtnNEas)
+
+```diff
+-prueba
+```
   
   
   <br>
