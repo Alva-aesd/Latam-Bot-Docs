@@ -4,7 +4,7 @@
   </p>
   
   # Latam Bot
-  Un bot multifuncional.
+  👋 • ¡Hola!, !Soy Latam Bot un bot latino y multifunción!
 
   # Categorías
   
@@ -19,8 +19,16 @@
 
 - [Servidor De Soporte](https://discord.gg/GRAJtnNEas)
 
+# Comandos Alianzas
+
 ```diff
--prueba
+- xd!set-channel-alliances #Canal
+
+- xd!set-alliance-panel (Escribe la plantilla de tu servidor.)
+
+- xd!set-color-panel (Color del embed.)
+
++ Luego de ejecutar los anteriores comandos, vas al canal de donde estableciste las alianzas y pones lo siguiente: xd!alliances-now
 ```
   
   
