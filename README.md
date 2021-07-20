@@ -19,7 +19,7 @@
 
 - [Servidor De Soporte](https://discord.gg/GRAJtnNEas)
 
-# Comandos Alianzas
+# 🤝 | Comandos De Alianzas
 
 ```diff
 - xd!set-channel-alliances #Canal
