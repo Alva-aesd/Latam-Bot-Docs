@@ -7,8 +7,6 @@
   👋 • ¡Hola!, !Soy Latam Bot un bot latino y multifunción!
 
   # Categorías
-  
-  - 🤝 Sistema de Alianzas
   - 🎮 Minijuegos
   - 📚 Utilidad
   - 😂 Diversión
