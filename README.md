@@ -1,6 +1,6 @@
   <br />
     <p>
-    <a href="(https://discord.gg/sVsk6DmhJF"><img src="https://cdn.discordapp.com/avatars/864961940165754931/0b59d86185ba639e04f118e93a4c53a1.png?size=2048" alt="aoi.js" /></a>
+    <a href="https://discord.gg/sVsk6DmhJF"><img src="https://cdn.discordapp.com/avatars/864961940165754931/8e8c9aacf59fc4587ffe4d6346d9d582.png?size=2048" alt="latam-bot" /></a>
   </p>
   
   # Latam Bot
